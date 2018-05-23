@@ -26,5 +26,10 @@ namespace sp_fap.Controllers
 
             return View();
         }
+        public ActionResult Main1()
+        {
+
+            return View();
+        }
     }
 }
